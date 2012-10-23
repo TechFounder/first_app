@@ -67,7 +67,10 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.19)
     multi_json (1.3.6)
+<<<<<<< HEAD
     nokogiri (1.5.5)
+=======
+>>>>>>> 5891fd463a57b47e3638357ffa485fab3b02a504
     pg (0.12.2)
     polyglot (0.3.3)
     rack (1.4.1)
